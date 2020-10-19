@@ -1,6 +1,7 @@
 # PR並べるマン
 
 今回のビルドまでに新たにマージされたプルリクエストを並べてくれる良いやつ
+https://techblog.kayac.com/unity_advent_calendar_2018_03
 
 ## 準備
 
